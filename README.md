@@ -1,6 +1,5 @@
 ## Welcome to GitHub Pages
 
-[Test Post](https://www.anandesh.com/test)
 
 You can use the [editor on GitHub](https://github.com/Anandesh-Sharma/anandesh-sharma.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
